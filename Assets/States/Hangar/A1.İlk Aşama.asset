@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e790cdb0f79e4344694e00ebc1bbed3c, type: 3}
+  m_Name: "A1.\u0130lk A\u015Fama"
+  m_EditorClassIdentifier: 
+  storyText: "K\xF6t\xFC adamlar taraf\u0131ndan \u0131ss\u0131z bir adada \xF6l\xFCme
+    terkedildin!\n\nNerede oldu\u011Fun hakk\u0131nda en ufak bir fikrin yok.\n\nYan\u0131nda
+    sadece biraz su ve \xE7ok az yemek var. Ya\u015Faman i\xE7in bir \u015Feyler yapmal\u0131s\u0131n!\n\n\u0130lerlemek
+    i\xE7in 1'e bas"
+  nextStates:
+  - {fileID: 11400000, guid: ecf293ddd5fb3c8439af6cb704def04f, type: 2}

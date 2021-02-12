@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e790cdb0f79e4344694e00ebc1bbed3c, type: 3}
+  m_Name: "S1.Ba\u015Far\u0131l\u0131"
+  m_EditorClassIdentifier: 
+  storyText: "Tebrikler!!!! T\xFCm k\xF6t\xFC adamlar\u0131 \xF6ld\xFCr\xFCp, bu zorlu
+    ko\u015Fullarda hayatta kalmay\u0131 ba\u015Fard\u0131n\u0131z. Aileniz ve sevdikleriniz
+    \xE7ok mutlu!\n\nTekrar oynamak ister misiniz?\n\n1. Evet, oyunu bir kez daha
+    bitirmek istiyorum.\n2. Hay\u0131r, ana men\xFCye d\xF6nmek istiyorum\n"
+  nextStates:
+  - {fileID: 11400000, guid: 06ba0b1386b39764996e8e017598dbe9, type: 2}
+  - {fileID: 11400000, guid: cf83f096914fa754e9df6aa2d16776b5, type: 2}

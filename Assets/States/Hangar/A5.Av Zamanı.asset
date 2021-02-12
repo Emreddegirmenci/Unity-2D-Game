@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e790cdb0f79e4344694e00ebc1bbed3c, type: 3}
+  m_Name: "A5.Av Zaman\u0131"
+  m_EditorClassIdentifier: 
+  storyText: "\xC7ok a\xE7s\u0131n\u0131z ve ormanda bir inek g\xF6rd\xFCn\xFCz.\n\n\u0130ne\u011Fi
+    vurup etinden faydalanmak ister misiniz?\n\n1.Evet, ine\u011Fi vur.\n2.Hay\u0131r,
+    ine\u011Fi vurmadan yola devam et"
+  nextStates:
+  - {fileID: 11400000, guid: b71827a5ebadd2547baf3c7fca540333, type: 2}
+  - {fileID: 11400000, guid: c256edcf890acf74c87f209e7e082cc8, type: 2}

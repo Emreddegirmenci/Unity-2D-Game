@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e790cdb0f79e4344694e00ebc1bbed3c, type: 3}
+  m_Name: A2.Silah
+  m_EditorClassIdentifier: 
+  storyText: "Ormanda y\xFCr\xFCrken bir silah buldun.\n\nAlmak ister misin?\n\n1.Silah\u0131
+    al\n2.Almadan yola devam et"
+  nextStates:
+  - {fileID: 11400000, guid: 5de2032d031b16d42af9cb75b8bc62a2, type: 2}
+  - {fileID: 11400000, guid: 71f6215edfa48424fa31ff3a474c4a10, type: 2}
